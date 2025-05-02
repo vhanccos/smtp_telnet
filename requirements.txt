@@ -1,0 +1,4 @@
+aiosmtpd
+atpublic
+attrs
+./SimpleTelnetMail
